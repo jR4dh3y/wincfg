@@ -1,0 +1,13 @@
+{
+  "theme": "Squircle",
+  "controlStyles[0].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton]",
+  "controlStyles[0].styles[0]": "Visibility=Collapsed",
+  "resourceVariables[0].variableKey": "",
+  "resourceVariables[0].value": "",
+  "controlStyles[1].target": " Target: Taskbar.TaskListLabeledButtonPanel@RunningIndicatorStates > Rectangle#RunningIndicator",
+  "controlStyles[1].styles[0]": "Fill=#FFED7014",
+  "controlStyles[1].styles[1]": "Height=2",
+  "controlStyles[1].styles[2]": "Width=12",
+  "controlStyles[1].styles[3]": "Fill@ActiveRunningIndicator=Red",
+  "controlStyles[1].styles[4]": "Width@ActiveRunningIndicator=20"
+}
